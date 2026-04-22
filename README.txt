@@ -1,7 +1,6 @@
 Project : miniTOE
 
 miniTOE stands for mini Terminal Operating Environment
-Inspired by CS1234 Lab Topics
 
 NOTE: For best experience, execute on a 80x24(wxh)terminal.
 
