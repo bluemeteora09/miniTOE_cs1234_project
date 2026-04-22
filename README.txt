@@ -1,6 +1,7 @@
 Project : miniTOE
 
 miniTOE stands for mini Terminal Operating Environment
+Inspired by CS1234 Lab Topics
 
 NOTE: For best experience, execute on a 80x24(wxh)terminal.
 
@@ -24,18 +25,20 @@ Features:
     Displays different pages user can visit.
     User can can go to other modes from the Dashboard.
 3. File Explorer:
+    Uses a virtual file system.
     User can create, edit, rename, delete files.
-    Sync option for using files from previou login(consider only the login before)
+    Sync option for using files from previou login(consider only the login before).
 4. Editor:
     Simple editor, anything we write and press enter/return will show up on the screen.
-    It will save the changes as we go back/quit the editor but not when the execution is stopped(ctrl+C)
+    It will save the changes as we go back/quit the editor but not when the execution is stopped(ctrl+C).
 5. History:
-    Shows File history(mosrt recently opened)
-    Shows input/command history(anything that we typed in shows up)
+    Shows File history(most recently opened).
+    Shows input/command history(anything that we typed in shows up).
 6. Help Page:
     Contains all commands and their functions.
 7. Login Page:
-    Has commands that can be used to logout and log in as different users
+    Has commands that can be used to logout and log in as different users.
+    Default login as 'admin' (password:admin@1234) which lands us in the Dashboard itself.
 
 Constraints:
 1. Input can be atmost 100 characters long.
