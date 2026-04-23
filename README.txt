@@ -38,6 +38,7 @@ Features:
 7. Login Page:
     Has commands that can be used to logout and log in as different users.
     Default login as 'admin' (password:admin@1234) which lands us in the Dashboard itself.
+    NOTE: use 'home' command to go from login page to Dashboard.
 
 Constraints:
 1. Input can be atmost 100 characters long.
@@ -82,6 +83,7 @@ Commands:
     login   - for login 
 
 Have Fun !
+There is a demo video in this repository, do check it out !
 Comment if you have any feedback.
 
 
