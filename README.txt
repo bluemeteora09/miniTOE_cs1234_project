@@ -1,3 +1,6 @@
+NOTE: This is an updated version of the code in 'main' branch.
+Reason: I was working with MacOS while I was making this. But upon trying in my friends' Linux environment, it gave me warnings of buffer overflow or string size related warnings. So, I changed few things. Rest of the functionality remains the same. Enjoy!
+
 Project : miniTOE
 
 miniTOE stands for mini Terminal Operating Environment
